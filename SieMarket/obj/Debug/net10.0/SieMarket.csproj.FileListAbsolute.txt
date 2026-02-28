@@ -1,0 +1,14 @@
+C:\Angajare\Siemens internship 2026\SieMarket\SieMarket\bin\Debug\net10.0\SieMarket.exe
+C:\Angajare\Siemens internship 2026\SieMarket\SieMarket\bin\Debug\net10.0\SieMarket.deps.json
+C:\Angajare\Siemens internship 2026\SieMarket\SieMarket\bin\Debug\net10.0\SieMarket.runtimeconfig.json
+C:\Angajare\Siemens internship 2026\SieMarket\SieMarket\bin\Debug\net10.0\SieMarket.dll
+C:\Angajare\Siemens internship 2026\SieMarket\SieMarket\bin\Debug\net10.0\SieMarket.pdb
+C:\Angajare\Siemens internship 2026\SieMarket\SieMarket\obj\Debug\net10.0\SieMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angajare\Siemens internship 2026\SieMarket\SieMarket\obj\Debug\net10.0\SieMarket.AssemblyInfoInputs.cache
+C:\Angajare\Siemens internship 2026\SieMarket\SieMarket\obj\Debug\net10.0\SieMarket.AssemblyInfo.cs
+C:\Angajare\Siemens internship 2026\SieMarket\SieMarket\obj\Debug\net10.0\SieMarket.csproj.CoreCompileInputs.cache
+C:\Angajare\Siemens internship 2026\SieMarket\SieMarket\obj\Debug\net10.0\SieMarket.dll
+C:\Angajare\Siemens internship 2026\SieMarket\SieMarket\obj\Debug\net10.0\refint\SieMarket.dll
+C:\Angajare\Siemens internship 2026\SieMarket\SieMarket\obj\Debug\net10.0\SieMarket.pdb
+C:\Angajare\Siemens internship 2026\SieMarket\SieMarket\obj\Debug\net10.0\SieMarket.genruntimeconfig.cache
+C:\Angajare\Siemens internship 2026\SieMarket\SieMarket\obj\Debug\net10.0\ref\SieMarket.dll
